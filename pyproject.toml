@@ -1,0 +1,5 @@
+[project]
+name = "clinical-ai-review-platform"
+version = "0.1.0"
+description = "Human-in-the-Loop AI Review Portal"
+requires-python = ">=3.10"
